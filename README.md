@@ -35,4 +35,6 @@ To get started, follow these steps:
 3. Elasticsearch indexes the processed logs in its storage.
 4. Kibana provides a user-friendly interface to visualize and analyze the data stored in Elasticsearch.
 
-This setup allows for efficient log management, monitoring, and analysis, providing valuable insights for your application.
+## outcome
+![image](https://github.com/ericmaniraguha/ELK_Springboot_App/assets/44385819/5c86f8c8-780e-4cea-95eb-fa94a844db7c)
+
